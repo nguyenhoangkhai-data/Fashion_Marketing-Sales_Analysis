@@ -321,7 +321,7 @@ The data covers ads, orders and the product catalog for May 2024.
 
 The dashboard has six pages. Click a page name to view its screenshot.
 
-Full files: [PDF](power%20bi/Marketing_Campaign_Dashboard.pdf) · [Power BI (.pbix)](power%20bi/Marketing_Campaign_Dashboard.pbix)
+Full files: [PDF](power%20bi/Fashion%20Marketing%20%26%20Sales%20Analysis.pdf) · [Power BI (.pbix)](power%20bi/Fashion%20Marketing%20%26%20Sales%20Analysis.pbix)
 
 <details>
 <summary><b>Overview Marketing</b>: Are the ads making or losing money, and does revenue exceed the break-even level?</summary>
